@@ -1,0 +1,39 @@
+{
+  "key":"group_54b3a2fe5477e",
+  "title":"Opening Times styling",
+  "fields":[
+    {
+      "key":"field_54b3a30656bc6",
+      "label":"Use default styling?",
+      "name":"default_styling",
+      "prefix":"",
+      "type":"true_false",
+      "instructions":"Tick this box if you would like to use the default CSS styling supplied with this plugin.",
+      "required":1,
+      "conditional_logic":0,
+      "wrapper":{
+        "width":"",
+        "class":"",
+        "id":""
+      },
+      "message":"",
+      "default_value":0
+    }
+  ],
+  "location":[
+    [
+      {
+        "param":"options_page",
+        "operator":"==",
+        "value":"acf-options-shop-opening-times"
+      }
+    ]
+  ],
+  "menu_order":3,
+  "position":"normal",
+  "style":"default",
+  "label_placement":"left",
+  "instruction_placement":"label",
+  "hide_on_screen":"",
+  "modified":1421059311
+}
